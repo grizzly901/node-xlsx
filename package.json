@@ -22,7 +22,10 @@
   "license": "Apache-2.0",
   "dependencies": {
     "xlsx": "^0.17.4"
-  },
+  },    
+  
+  
+  
   "devDependencies": {
     "@tsconfig/node10": "^1.0.8",
     "@types/jest": "^27.4.0",
